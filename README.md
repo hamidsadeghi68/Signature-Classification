@@ -1,4 +1,4 @@
-KERAS **Signature Classification** on ICDAR 2011 Signature Dataset using **Siamese** CNN.
+Keras **Signature Classification** on ICDAR 2011 Signature Dataset using **Siamese** CNN.
 
 **Backbone models**: custom CNN and pretrained CNNs on ImageNet including Xception, InceptionV3, ResNet50, and MobileNetV2
   
