@@ -4920,19 +4920,19 @@ plt.show()
 
 
     
-![png](README_files/siamese_models_sign_data_31_1.png)
+![png](README_files/README_31_1.png)
     
 
 
 
     
-![png](README_files/siamese_models_sign_data_31_2.png)
+![png](README_files/README_31_2.png)
     
 
 
 
     
-![png](README_files/siamese_models_sign_data_31_3.png)
+![png](README_files/README_31_3.png)
     
 
 
